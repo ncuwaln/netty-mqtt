@@ -18,3 +18,8 @@ bin/start-server.sh
 ```
 bin/start-client.sh
 ```
+
+### 缺点
+1. 未实现qos2
+2. 未实现connect时的username与password
+3. 只支持确定的topic, 不支持topic filter匹配
