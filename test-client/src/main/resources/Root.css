@@ -1,0 +1,13 @@
+#brushButton{
+    -fx-graphic: url("quill.png");
+}
+
+#eraserButton{
+    -fx-graphic: url("eraser.png");
+}
+#clearAllButton{
+    -fx-graphic: url("refresh.png");
+}
+#pane{
+    -fx-background-color: darkgray;
+}
